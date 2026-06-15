@@ -7,3 +7,6 @@ ese seria la estructura el ejmeplo seria:
 
 si se quieren hacer conectores de manera forzosa es en inles 
 ejemplo: "comprension lectora", "aplicaciones moviles ==or== APP", "Inteligencia Artificial"
+
+
+[[Planteamaineto de la problematica]]

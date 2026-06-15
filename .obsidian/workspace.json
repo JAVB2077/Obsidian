@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568b22908c375d95",
+            "id": "cc526679d1b004ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T. investigacion II/Sin título.md",
+                "file": "T. investigacion II/Planteamaineto de la problematica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Planteamaineto de la problematica"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e749119d2a09f88f",
@@ -169,11 +169,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "568b22908c375d95",
+  "active": "cc526679d1b004ee",
   "lastOpenFiles": [
+    "T. investigacion II/Base de datos cientifica.md",
+    "T. investigacion II/Planteamaineto de la problematica.md",
+    "Planteamiento de la problematica.md",
+    "Planteamiento del problema.md",
     "README.md",
     "Sin título.base",
-    "T. investigacion II/Sin título.md",
+    "T. investigacion II/Clase 12-06-2026.md",
     "T. investigacion II",
     "Sin título 1.base",
     "Sin título.canvas",
@@ -202,10 +206,6 @@
     "Solar/Intento 1.md",
     "TP4056.md",
     "Solar",
-    "B1/Manual yt-dlp.md",
-    "Proyecto/Estado del arte IA.md",
-    "Herbolario/Indice.md",
-    "YALM.md",
     "Herbolario",
     "Proyecto"
   ]
